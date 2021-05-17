@@ -1,6 +1,6 @@
 puts "広さを入力...1"
-hirosa = gets.to_s.chomp
-puts hirosa + "平米にスーベニア"
+extent = gets.to_s.chomp
+puts extent + "平米にスーベニア"
 
 puts "広さを入力...2"
 nagi = gets.to_i
